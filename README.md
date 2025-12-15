@@ -11,9 +11,6 @@ Welcome to the **Furni** project! This repository contains the source code for a
 3. [Technologies Used](#technologies-used)
 4. [Installation Guide](#installation-guide)
 5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
 
 ## Project Overview
 
