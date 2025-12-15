@@ -126,11 +126,6 @@ We welcome contributions from the community! If you want to contribute to the pr
 
 This project is licensed under the MIT License. Feel free to use and modify it as you wish.
 
-## Contact
 
-For any questions or feedback, you can reach out via the following:
-
-- **GitHub**: [sanzievert](https://github.com/sanzievert)
-- **Email**: sanzievert@example.com
 
 Thank you for checking out the **Furni** project! We hope you find it useful for your furniture selling needs. Don't forget to visit the [Releases section](https://github.com/sanzievert/Furni-Furniture-Website-Project-Python-Django/releases) for updates and downloadable files. Happy coding!
